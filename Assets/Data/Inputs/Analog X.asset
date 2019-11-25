@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0d287db8855024fbc132e608b8c118, type: 3}
+  m_Name: Analog X
+  m_EditorClassIdentifier: 
+  targetString: RAnalog X
+  value: 0
+  variable: {fileID: 11400000, guid: 1c46f64764e436d408d2e41922d7bee0, type: 2}
