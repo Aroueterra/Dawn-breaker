@@ -3,3 +3,4 @@ DawnBreaker is a stealth, action game built in unity3D with a Field of View and 
 
 
 [Imgur Image](https://i.imgur.com/5YTCQaa.gifv)
++<img src="/art/Gameplay.gif?raw=true"">
