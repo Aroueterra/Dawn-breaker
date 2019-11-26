@@ -20,7 +20,7 @@ An Xbox / Xbox interfacing gamepad
 
 ## Gameplay
 
-<img src='./Images/74940238_1735155749951632_6166881723415003136_n.png'>
+<img src='./Images/asd.png'>
 
 Upon starting the game, the player is greeted with a menu screen with the title Dawnbreaker. Beneath are the texts Start and Exit. When they press start, a character selection screen will appear. Once the player has chosen their character, the game will start. Exit would quit the application.
 
@@ -42,6 +42,26 @@ Upon starting the game, the player is greeted with a menu screen with the title 
 <img src='./Images/Gameplay.gif'>
 
 
+
+<img src='./Images/blocked.png'>
+
+
+
+<img src='./Images/battle.png'>
+
+3 kinds of enemy patrols. Stationary, Roaming, and Static patrol. Players must avoid contact or eliminate enemies if they please.
+
+Players have limited ammunition that they can take to the mission. Ammunition can be acquired throughout the game to replenish what they have.
+
+Players are given a health bar that depletes if they are harmed by the enemy.
+
+Player health is regenerated if players are out of combat for a short period of time. 
+	
+Enemies will chase you under Alert phase and will return to their patrols on Clear phase.
+
+<img src='./Images/gameover.png'>
+
+When the player's health reaches zero, he is killed and must reload from the beginning of the level.
 
 ### Minimap
 <img src='./Images/75233521_447700709220626_3854364429512605696_n.png'>
