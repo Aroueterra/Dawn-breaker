@@ -14,8 +14,8 @@ DawnBreaker is a stealth, action game built in unity3D with a Field of View and 
 -	**Tension** – The combination of music, isolation and consequence of action is intended to evoke a feeling of tension in the player and caution them first to think before leaping to action, though either method of play is viable. Even as the second character is introduced, if the player acts irrationally, they will feel the effects of their mistakes as the more mistakes are made, the harder the next level becomes in the form of additional enemy spawns.
 
 
-| Controls | 
-| --- |
+| Controls | |
+| --- | --- |
 | A | Interact |
 | X | Melee |
 | Y | Shoot |
