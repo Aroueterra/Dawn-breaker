@@ -13,6 +13,18 @@ DawnBreaker is a stealth, action game built in unity3D with a Field of View and 
 -	**Strategic** – Various tools are made available to the player, such as the mini-map, weapons and inventory items to act with. The game will not rush the player, they can take all the time they need to formulate the best possible path to succeed, until they make their decision.
 -	**Tension** – The combination of music, isolation and consequence of action is intended to evoke a feeling of tension in the player and caution them first to think before leaping to action, though either method of play is viable. Even as the second character is introduced, if the player acts irrationally, they will feel the effects of their mistakes as the more mistakes are made, the harder the next level becomes in the form of additional enemy spawns.
 
+## Requirements
+
+Windows 10 / .Net Framework 4.7.2
+An Xbox / Xbox interfacing gamepad
+
+## Gameplay
+
+<img src='./Images/74940238_1735155749951632_6166881723415003136_n.png'>
+
+Upon starting the game, the player is greeted with a menu screen with the title Dawnbreaker. Beneath are the texts Start and Exit. When they press start, a character selection screen will appear. Once the player has chosen their character, the game will start. Exit would quit the application.
+
+## Instructions
 
 | Controls | |
 | --- | --- |
@@ -23,10 +35,18 @@ DawnBreaker is a stealth, action game built in unity3D with a Field of View and 
 | LB | Toggle Field of View |
 | RB | Toggle Map |
 
+<img src='./Images/74940238_1735155749951632_6166881723415003136_n.png'>
 
-
-
-[Imgur Image](https://i.imgur.com/5YTCQaa.gifv)
 
 
 <img src='./Images/Gameplay.gif'>
+
+
+
+### Minimap
+<img src='./Images/75233521_447700709220626_3854364429512605696_n.png'>
+
+
+
+
+<img src='./Images/75439372_727171974452129_6547258990814822400_n.png'>
