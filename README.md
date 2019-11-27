@@ -88,11 +88,11 @@ The players have two modes of attack.
 
 <img align="left" width="100" height="100" src='./Images/iconfinder_android-brain_1291783.png'>
 
-3 kinds of enemy patrols. Stationary, Roaming, and Static patrol. 
    1. Stationary: The enemy does not patrol, and merely defends a single position; on player contact, they will engage and pursue the player.
    2. Patrolling: The enemy follows a strict patrol pattern, usually between 3-4 points, they will engage and pursue the player.
    3. Wandering: These enemies have no strict patrol pattern and simply wander about randomly.
-   4. Static: These enemies do not move from their position no mat
+   4. Static: These enemies do not move from their position no matter the cause. To compensate, they have an unlimited range to their firearm and must be avoided via hiding and obstructing their line of sight.
+
 Players must avoid contact or eliminate enemies if the need arises.
 
 - Players have limited ammunition that they can take to the mission. Ammunition can be acquired throughout the game to replenish what they have.
