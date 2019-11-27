@@ -1,7 +1,8 @@
 # Dawn-breaker
 
-<img align="right" width="100" height="100" src='./Images/Face1.png">
-<img src='./Images/74940238_1735155749951632_6166881723415003136_n.png'>
+                                                 
+<img align="right" width="100" height="100" src='./Images/Face1.png'>
+
 DawnBreaker is a stealth, action game built in unity3D with a Field of View and Detection+Way Point implementations
 
 ## High Concept Statement
