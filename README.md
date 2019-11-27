@@ -167,3 +167,6 @@ Distributed under the Mit license. See ``LICENSE`` for more information.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/Arouetera/Dawn-breaker/wiki
+
+
+*Uploaded files are of the early alpha stage of the game only. The final commit representative of the release product is not yet included. 
