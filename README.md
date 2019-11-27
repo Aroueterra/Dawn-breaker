@@ -41,8 +41,6 @@ Run Dawnbreaker.exe
 Upon starting the game, the player is greeted with a menu screen with the title Dawnbreaker. Beneath are the texts Start and Exit. When they press start, a character selection screen will appear. Once the player has chosen their character, the game will start. Exit would quit the application.
 
 ## Instructions
-
-
 <img align="right" width="100" height="100" src='./Images/iconfinder_game_512535.png'>
 
 | Controls | |
@@ -76,8 +74,10 @@ The enemies are special in that their movement is determined by their distance t
 ## Actions
 
 <img align="left" width="100" height="100" src='./Images/iconfinder_Lasertag1_2315992.png'>
-- The enemies are capable of ranged attacks if the player enters within a 10 meter radius. On triggering the alert phase, the field of view of an enemy will enlarge, increasing the amount of area the player needs to be clear of to escape the threat. The enemies have 15 shots at the player before they run out of ammunition, at which point they transition to melee attacks.
-- The players have two modes of attack.
+
+The enemies are capable of ranged attacks if the player enters within a 10 meter radius. On triggering the alert phase, the field of view of an enemy will enlarge, increasing the amount of area the player needs to be clear of to escape the threat. The enemies have 15 shots at the player before they run out of ammunition, at which point they transition to melee attacks.
+
+The players have two modes of attack.
   1. Ranged: Fires directly forward. It takes only 1 shot to take out a target. (In the future, we may implement an aiming system)
   2. Melee: Strikes the target directly in front of you, knocking them out for a short period of time. Attacks are slow and have a cooldown.
  The player has 7 shots of ammo.
@@ -87,7 +87,12 @@ The enemies are special in that their movement is determined by their distance t
 ## Enemy AI - Patrol Patterns
 
 <img align="left" width="100" height="100" src='./Images/iconfinder_android-brain_1291783.png'>
+
 3 kinds of enemy patrols. Stationary, Roaming, and Static patrol. 
+   1. Stationary: The enemy does not patrol, and merely defends a single position; on player contact, they will engage and pursue the player.
+   2. Patrolling: The enemy follows a strict patrol pattern, usually between 3-4 points, they will engage and pursue the player.
+   3. Wandering: These enemies have no strict patrol pattern and simply wander about randomly.
+   4. Static: These enemies do not move from their position no mat
 Players must avoid contact or eliminate enemies if the need arises.
 
 - Players have limited ammunition that they can take to the mission. Ammunition can be acquired throughout the game to replenish what they have.
