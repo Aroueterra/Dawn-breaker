@@ -169,4 +169,4 @@ Distributed under the Mit license. See ``LICENSE`` for more information.
 [wiki]: https://github.com/Arouetera/Dawn-breaker/wiki
 
 
-*Uploaded files are of the early alpha stage of the game only. The final commit representative of the release product is not yet included. 
+*Uploaded files are of the early alpha stage of the game only. The final commit representative of the release product is not yet included. If you have inquiries on how certain things were implemented in the given release executable feel free to email me (aroueterra@gmail.com) or message me in Facebook Messenger.
