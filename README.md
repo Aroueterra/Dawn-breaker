@@ -135,6 +135,7 @@ This project was conducted by team **Firaja**, under the AGD specialist course o
 August Bryan N. Florese – [@Aroueterra](https://www.facebook.com/Aroueterra) – aroueterra@gmail.com
 
 **Documentation Outline**:
+
 Jonathan Navarro
 
 Dioner Grefalde
