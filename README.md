@@ -3,7 +3,7 @@
                                                  
 <img align="right" width="100" height="100" src='./Images/iconfinder_Invisible_728947.png'>
 
-DawnBreaker is a stealth, action game built in unity3D with a Field of View and Detection+Way Point implementations
+> [C#/Unity] DawnBreaker is a stealth-action game built in Unity3D featuring: Field of View; Aggro Detection;  Way-Point Patrol and Return implementations
 
 ## High Concept Statement
 
