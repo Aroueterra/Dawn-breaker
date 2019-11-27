@@ -44,6 +44,7 @@ Upon starting the game, the player is greeted with a menu screen with the title 
 
 
 <img align="right" width="100" height="100" src='./Images/iconfinder_game_512535.png'>
+
 | Controls | |
 | --- | --- |
 | A | Interact |
