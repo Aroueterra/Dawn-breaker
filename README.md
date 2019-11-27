@@ -13,6 +13,7 @@ DawnBreaker is a stealth, action game built in unity3D with a Field of View and 
 ## PLAYER EXPERIENCE GOALS/DESIGN GOALS:
 
 <img align="left" width="100" height="100" src='./Images/iconfinder_16-Marketing_Strategy_3213289.png'>
+
 -	**Freedom of action** – The players are presented with problems that may come in the form of a puzzle or a challenge. The methods in which they solve this are up to the players and how they make use of the tools available.
 -	**Subterfuge** – Sneaking by an enemy is not the only route to clearing stages; one can employ intelligence gathering through data logs that can give the player an advantage over a tough opponent. The player can also make use of their environment to create distractions. When all else fails—or if the player prefers, violence is always an option. However, it is not an easy path. Later in the game, the player will need to control two characters at exchange-ably, drastically increasing the amount of ways you can clear a stage.
 -	**Strategic** – Various tools are made available to the player, such as the mini-map, weapons and inventory items to act with. The game will not rush the player, they can take all the time they need to formulate the best possible path to succeed, until they make their decision.
