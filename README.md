@@ -125,7 +125,7 @@ These are reflected in the overview of the map below, borrowed from the unity as
     * Minimum Viable Product Release
 
 
-##Contributors
+## Contributors
 
 <img src='./Images/75439372_727171974452129_6547258990814822400_n.png'>
 
@@ -136,10 +136,12 @@ August Bryan N. Florese â€“ [@Aroueterra](https://www.facebook.com/Aroueterra) â
 
 **Documentation Outline**:
 Jonathan Navarro
+
 Dioner Grefalde
+
 Karl Cruz
 
-Special Thanks and Credits due to the owners/joint-owners of all of the free assets used by the project, including but not limited to:
+**Special Thanks and Credits due to the owners/joint-owners of all of the free assets used by the project, including but not limited to:**
 - SharpAccent
 - Sebastian Lague
 - OpenGameArt
