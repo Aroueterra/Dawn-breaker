@@ -23,7 +23,7 @@
 
 Windows 10 / .Net Framework 4.7.2
 
-An Xbox / Xbox interfacing gamepad
+An Xbox / Xbox interfacing gamepad - (Keyboard instructions were not comepletely implemented)
 
 ## Installation
 
